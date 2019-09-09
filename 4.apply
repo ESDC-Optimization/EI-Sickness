@@ -113,7 +113,7 @@
 		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
 <li><a href='https://www.canada.ca/en.html'>Home</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li><li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/4.apply">EI Sickness Benefits: Apply</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li><li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying">EI Sickness Benefits: After you apply</a></li>
 </ol></div></nav>
 	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
 </header>
@@ -121,7 +121,8 @@
 </div>
     <main property="mainContentOfPage" typeof="WebPageElement" class="container">
     <h1 property="name" id="wb-cont" dir="ltr">
-EI Sickness Benefits: <strong>Apply</strong></h1>
+EI Sickness Benefits: <strong>After you apply</strong></h1>
+        <div>
     <div class="mwsgeneric-base-html parbase section">
       <p><strong>From: <a href="/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
       <div class="pagetag">
@@ -131,111 +132,67 @@ EI Sickness Benefits: <strong>Apply</strong></h1>
         <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/1.what-these-benefits-offer" class="list-group-item">1. What these benefits offer</a> </li>
         <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligibility" class="list-group-item">2. Eligibility</a> </li>
         <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/3.how-much-you-could-receive" class="list-group-item ">3. How much you could receive</a> </li>
-        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/4.apply" class="list-group-item active">4. Apply</a> </li>
-        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying" class="list-group-item">5. After you apply</a> </li>
+        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/4.apply" class="list-group-item">4. Apply</a> </li>
+        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying" class="list-group-item active">5. After you apply</a> </li>
       </ul>
     </div>
   </div>
-	  <section>
   <div class="row">
     <div class="col-md-8">
-		<p><strong>To complete your application you must do the  following:</strong></p>
-			<div class="well">
-          <div class="row list-unstyled">
-<section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="apply1.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step1">Begin to gather supporting documents</a></p>
-	</section>
-	<section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="apply2.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step2">Complete the online application</a></p>
-	</section>
-      <section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="apply3.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step3">Provide supporting documents</a></p>
-	</section>
-			  <section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="apply4.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step4">A benefit statement and acess code will arrive in the mail</a></p>
-	</section>
-		    <section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="apply5.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step5">Review your application process</a>            </p>
-		    </section>
-		    </div>
-			</div>
 		<section>
-			<p>Service Canada  collects personal information you put in an EI benefit application to decide if  you qualify for EI benefits. By starting this application, you consent to the  terms of the privacy notice statement. Please read the <a href="https://www.canada.ca/en/services/benefits/privacy-notice.html">privacy notice</a>.</p>
-		  <p>If you are  already familiar with the program:</p>
-			<p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
-			<h3>Begin to gather supporting documents</h3>
-            <p>As part of the application process, you may need to  provide Service Canada with documents. <strong>Don&rsquo;t  wait until you have these documents before you apply</strong>. You can get them  after you complete your online application and send them in if we need them.</p>
-            <h4>Medical certificate</h4>
-            <p>You&rsquo;ll need to  get a medical certificate signed by a medical practitioner. </p>
-              <p>You have 2  options. You can ask your medical practitioner to complete and sign either:</p>
-            <ul>
-              <li>Service Canada&rsquo;s <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=INS5140">Medical certificate for Employment Insurance (EI) sickness benefits</a> or</li>
-              <li>their own medical certificate form</li>
-            </ul>
-            <p>We&rsquo;ll let you know if you need to submit it to Service  Canada. </p>
-             <p>The medical practitioner may charge a fee to provide you  with a medical certificate. We don&rsquo;t reimburse this fee. </p>
-              <p>For  more information on medical certificates, such as who can sign it, visit <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/before-applying/medical-certificate.html">Information  on medical certificates and practitioners</a>.<strong> </strong></p>
-            <h4>Record of employment</h4>
-            <p>Employers  issue a Record of Employment (ROE) to provide information on your work history.  Service Canada uses the information to determine:</p>
-            <ul type="disc">
-              <li>whether you're eligible to receive EI benefits</li>
-              <li>how much you'll receive</li>
-            </ul>
-            <p>We&rsquo;ll let you know if you need to submit your ROE.</p>
-            <h3>Complete the online application</h3>
-            <p><strong>Apply as soon as  possible after you stop working.</strong> If you wait more than <p>4 weeks after your  last day of work to apply, you may lose benefits.</p>
-              Make sure you  have the following information to complete your application:</p>
-            <ul>
-              <li>The names and addresses of your employers in the last 52 weeks</li>
-              <li>The dates you were employed with each employer and the reasons you're no longer       employed with them</li>
-              <li>Your detailed explanation of the facts if you quit or were dismissed from any       job in the last 52 weeks</li>
-              <li>Your full mailing address and your home address, if they are different</li>
-              <li>Your social insurance number (SIN)</li>
-              <li>Your mother's maiden name</li>
-              <li>Your banking information, including financial institution, branch (transit)       number and your account number, to sign up for direct deposit</li>
-            </ul>
-            <p>The online application takes about an hour to complete. Your information is saved for  72&nbsp;hours (3&nbsp;days) from the time you start. If you don't complete the  application, you can come back to it later using a temporary password that you  receive when you start your application. </p>
-            <p>If you don't complete the application within 72&nbsp;hours, it will be deleted and you'll  have to start a new application.</p>
-          <h3>Provide supporting documents</h3>
-            <h4>Medical certificate</h4>
-            <p>Once you have  your medical certificate, keep it in a safe place for 6 years in case we  require it later. We will contact you to let you know if  you need to submit your medical certificate after you apply. </p>
-            <h4>Record of employment</h4>
-            <p>We will need your ROEs. Your employer may send them to us  directly. If not, you may need to submit them.</p>
-	  <details>
-            <summary><strong>Electronic ROEs</strong></summary>
-            <p>Electronic ROEs are sent directly to Service Canada by your employer. You don't need to  request or provide copies to Service Canada. </p>
-	  </details>
-	  <details>
-            <summary><strong>Paper ROEs</strong></summary>
-            <p>If your employer issues paper ROEs, you must request copies of all ROEs issued to you  in the past 52 weeks. You'll need to provide them to Service Canada as soon as  possible after you submit your EI application. You can <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html#details-panel3">mail them</a> or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada Centre</a>.</p>
-            <p>You can visit <a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My Service Canada Account (MSCA)</a> to view ROEs that have been issued to you  by past and current employers.</p>
-	  </details>
-            <h3>A benefit statement and access code will arrive by mail</h3>
-            <p>Once  your application is complete, Service Canada will mail you a benefit statement.  This statement will include a 4-digit access code. You need this code and your  SIN to inquire about your application and to complete biweekly reports. <strong>Receiving the EI benefit statement  doesn't mean that Service Canada has made a decision about your claim.</strong></p>
-            <h3>Review your application status</h3>
-            <p>To check the  progress of your application, you can:</p>
-            <ul type="disc">
-              <li><a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">log       into MSCA</a></li>
-              <li><a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">contact       Service Canada</a></li>
-            </ul>
-            <p>If you're not  registered with MSCA, you can create an account when you receive your access  code.</p>
-	  </section>
-		<nav role="navigation">
-		  <h2 class="wb-inv">Document navigation</h2>
+        <h3>Submit your biweekly reports</h3>
+        <p>After  you apply for Employment Insurance (EI) benefits, you&rsquo;ll have to submit reports  to Service Canada every two weeks for as long as you receive benefits. They help  show your ongoing eligibility and make sure you get the benefits to which  you&rsquo;re entitled. </p>
+          <p>You can submit  your biweekly reports <a href="https://www.canada.ca/en/services/benefits/ei/ei-internet-reporting.html">online</a> or by <a href="https://www.canada.ca/en/services/benefits/ei/ei-telephone-reporting.html">phone</a>. You&rsquo;ll need your SIN  and the 4-digit access code we mailed you. Once you submit your report, you  will get the date to submit your next one. You have 3 weeks from that date to  complete the next report.</p>
+        <h3>When payments start</h3>
+        <p>You'll  receive your first payment about 28 days after you apply if you're eligible and  have submitted all required information. If you're not eligible, we'll notify  you of the decision made about your application.</p>
+        <h4>Waiting period</h4>
+        <p>Before you  start receiving benefits, there is one week for which you won't be paid. We  call this the waiting period. It's like the deductible that you must pay for  other types of insurance. </p>
+        <h3>While receiving benefits</h3>
+        <p>If you work or earn money, you must indicate it on your biweekly report. If you don't inform  Service Canada, you risk being <a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/overpayments.html">overpaid</a> and having to repay benefits. </p>
+        <p>For more information on how earnings impact your benefits, visit&nbsp;<a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/working-while-claim.html">Working  while on claim</a>. </p>
+        <h4>If your situation changes</h4>
+        <p>You may be eligible for <a href="https://www.canada.ca/en/services/benefits/ei.html">other  benefits</a>. You must meet the conditions for each benefit.<br>
+          Please <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">contact Service Canada</a> if you: </p>
+        <ul>
+          <li>recover earlier than planned or</li>
+          <li>need more time off work than expected</li>
+        </ul>
+        <h4>If you travel outside of Canada</h4>
+        <p>Let us know if you&rsquo;re travelling by filling out an Absence from Canada form on your biweekly report or on <a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My Service Canada Account (MSCA)</a>. </p>
+          <p>You are <strong>not</strong> usuallyeligible to receive sickness benefits while outside Canada. However, you could be eligible if  you&rsquo;re seeking medical treatment that isn&rsquo;t readily or immediately available in your area of residence.</p>
+  <p><a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">Contact Service Canada</a> to speak with an agent who can give you advice on your specific circumstances.</p>
+        <h4>Check or update your information</h4>
+        <p>With <a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My Service Canada Account</a>, you can check the status of your EI application. You can  also: </p>
+        <ul>
+          <li>view and update your personal information</li>
+          <li>find out when your payments start and end</li>
+          <li>sign up for direct deposit or change your direct deposit details</li>
+        </ul>
+        <h3>When payments end</h3>
+        <p>You stop receiving benefits if:</p>
+        <ul>
+          <li>you no longer need to be away from work because of your medical condition</li>
+          <li>you've received 15 weeks of sickness benefit payments</li>
+          <li>you've received the maximum weeks of benefits payable to you when combining EI       benefit types or</li>
+          <li>you have reached the end of your claim period </li>
+          <ul>
+            <li>when you start a claim for any type of EI benefit, your claim is open for a        certain period of time. This is usually 52 weeks. In some situations, the claim period may be extended to a maximum of 2 years</li>
+          </ul>
+        </ul>
+        <h3>If you disagree with the decision on your application for EI benefits</h3>
+        <p>You can request a <a href="https://www.canada.ca/en/services/benefits/ei/ei-reconsideration.html">reconsideration  of the decision</a>. You must submit a request for reconsideration within 30 days after the day the  decision was communicated to you. You can <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">contact  Service Canada</a> to help you with your reconsideration request.</p>
+		</section>
+			<nav role="navigation">
+        <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/3.how-much-you-could-receive" rel="prev">Previous - How muh you could receive</a></li>
-      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying" rel="next">Next - After you apply</a></li>
+      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/4.apply" rel="prev">Previous - Apply</a></li>
       </ul>
 </nav>
-    </div>
-  </div>
-		  </section>
+	  </div>
+</div>
+
+
 </div>
 
 </div>
@@ -344,24 +301,51 @@ EI Sickness Benefits: <strong>Apply</strong></h1>
         <nav class="container wb-navcurr">
             <h2 class="wb-inv">About government</h2>
             <ul class="list-unstyled colcount-sm-2 colcount-md-3">
+                
                      
                          <li><a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">Contact Employment Insurance</a></li>
-
+                     
+                
+                
+                    
                         <li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
-
+                    
+                
+                
+                    
                         <li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
-
+                    
+                
+                
+                    
                         <li><a href="https://www.canada.ca/en/news.html">News</a></li>
-
+                    
+                
+                
+                    
                         <li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
-
+                    
+                
+                
+                    
                         <li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+                    
+                
+                
+                    
                         <li><a href="http://pm.gc.ca/en">Prime Minister</a></li>
+                    
+                
+                
                     
                         <li><a href="https://www.canada.ca/en/government/system.html">About government</a></li>
                     
+                
+                
+                    
                         <li><a href="http://open.canada.ca/en">Open government</a></li>
-
+                    
+                
             </ul>
         </nav>
         </div>
@@ -374,9 +358,15 @@ EI Sickness Benefits: <strong>Apply</strong></h1>
                             
                                 
                                     <li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
-
+                                
+                            
+                            
+                                
                                     <li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
-
+                                
+                            
+                            
+                                
                                     <li><a href="https://www.canada.ca/en/government/about.html">About Canada.ca</a></li>
                                 
                                     <li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
