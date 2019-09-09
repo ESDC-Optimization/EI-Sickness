@@ -130,7 +130,7 @@
 		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
 <li><a href='https://www.canada.ca/en.html'>Home</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li><li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/1.what-EI-sickness-benefits-offer">EI Sickness Benefits: What these benefits offer</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li><li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/1.what-these-benefits-offer">EI Sickness Benefits: What these benefits offer</a></li>
 </ol></div></nav>
 	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
 </header>
@@ -146,11 +146,11 @@ EI Sickness Benefits: What these benefits offer</h1>
         <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
           <div class="row">
             <ul class="toc lst-spcd col-md-12">
-        <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness.html" class="list-group-item active">1. What these benefits offer</a> </li>
-        <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/eligibility.html" class="list-group-item">2. Eligibility</a> </li>
-        <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/benefit-amount.html" class="list-group-item">3. How much you could receive</a> </li>
-        <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/before-applying.html" class="list-group-item">4. Apply</a> </li>
-        <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/apply.html" class="list-group-item">5. After you apply</a> </li>
+        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/1.what-ei-sickness-benefits-offer" class="list-group-item active">1. What these benefits offer</a> </li>
+        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligibility" class="list-group-item">2. Eligibility</a> </li>
+        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/3.how-much-you-could-receive" class="list-group-item">3. How much you could receive</a> </li>
+        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/4.apply" class="list-group-item">4. Apply</a> </li>
+        <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying" class="list-group-item">5. After you apply</a> </li>
       </ul>
     </div>
   </div>
@@ -176,12 +176,13 @@ EI Sickness Benefits: What these benefits offer</h1>
 			<p>If you have health complications during pregnancy, you  could be eligible for sickness  benefits or for <a href="https://www.canada.ca/en/services/benefits/ei/ei-maternity-parental.html">maternity benefits</a>. You must meet the conditions for each benefit.<strong> </strong></p>
 			</details>
 </section>
-<nav role="navigation">
-  <h2 class="wb-inv">Document navigation</h2>
-        <ul class="pager">
-          <li class="next"> <a rel="next" href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/eligibility.html">Next (Eligibility)</a> </li>
-        </ul>
-    </nav>
+ <nav role="navigation">
+    <h2 class="wb-inv">Document navigation</h2>
+    
+    <ul class="pager">
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligbility" rel="next">Next - Eligibility</a></li>
+      </ul>
+  </nav>
     </div>
     <div class="col-md-4">
       <section>
@@ -189,7 +190,7 @@ EI Sickness Benefits: What these benefits offer</h1>
         <ul class="lst-spcd">
           <li> <a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/sickness.html">Employment Insurance Sickness Benefit</a> </li>
 
-          <li> <a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/digest/chapter-11/table-of-contents.html">EI  Digest – Chapter 11 – Sickness Benefits</a> </li>
+          <li> <a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/digest/chapter-11/table-of-contents.html">EI Digest – Chapter 11 – Sickness Benefits</a> </li>
         </ul>
       </section>
       <section>
