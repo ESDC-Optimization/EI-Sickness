@@ -130,7 +130,7 @@
 		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
 <li><a href='https://www.canada.ca/en.html'>Home</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li><li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/what-EI-sickness-benefits-offer">EI Sickness Benefits: What these benefits offer</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li><li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/1.what-EI-sickness-benefits-offer">EI Sickness Benefits: What these benefits offer</a></li>
 </ol></div></nav>
 	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
 </header>
@@ -427,4 +427,3 @@ EI Sickness Benefits: What these benefits offer</h1>
 <script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 </body>
 </html>
-
