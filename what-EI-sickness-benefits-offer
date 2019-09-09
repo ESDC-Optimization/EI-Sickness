@@ -1,21 +1,31 @@
-<!doctype html>
-
-<!--[if lt IE 9]>
+<!DOCTYPE html><!--[if lt IE 9]>
 <html class="no-js lt-ie9" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<!--<![endif]-->
-<head prefix="og: http://ogp.me/ns#">
-    
+<![endif]--><!--[if gt IE 8]><!--><html class="js backgroundsize borderimage csstransitions fontface svg details progressbar meter no-mathml cors xsmallview wb-enable" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta charset="utf-8">
-<title>EI Sickness Benefit - Overview - Canada.ca</title>
-<meta content="width=device-width,initial-scale=1" name="viewport">
-
-
-	<link rel="schema.dcterms" href="http://purl.org/dc/terms/"/>
-
+<title>Canada Pension Plan Disability Benefit - Overview - Canada.ca</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="description" content="Overview">
+<meta name="keywords" content="Overview">
+<meta name="author" content="Employment and Social Development Canada">
+<meta name="dcterms.title" content="Canada Pension Plan Disability Benefit - Overview">
+<meta name="dcterms.description" content="Overview">
+<meta name="dcterms.creator" content="Employment and Social Development Canada">
+<meta name="dcterms.language" title="ISO639-2/T" content="eng">
+<meta name="dcterms.subject" title="gccore" content="PR Processes;Programs">
+<meta name="dcterms.issued" title="W3CDTF" content="2015-10-14">
+<meta name="dcterms.modified" title="W3CDTF" content="2019-01-31">
+<meta name="dcterms.spatial" content="Canada">
+<meta name="dcterms.type" content="program descriptions">
+<meta name="dcterms.source" content="aem">
+<meta name="dcterms.identifier" content="Employment_and_Social_Development_Canada">
+<meta content="378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 230798677012118, 320520588000085, 103201203106202, 273375356172196, 61263506236, 353102841161, 1061339807224729, 1090791104267764, 395867780593657, 1597876400459657, 388427768185631, 937815283021844, 207409132619743, 1952090675003143, 206529629372368, 218566908564369, 175257766291975, 118472908172897, 767088219985590, 478573952173735, 465264530180856, 317418191615817, 428040827230778, 222493134493922, 196833853688656, 194633827256676, 252002641498535, 398018420213195, 265626156847421, 202442683196210, 384350631577399, 385499078129720, 178433945604162, 398240836869162, 326182960762584, 354672164565195, 375081249171867, 333050716732105, 118996871563050, 240349086055056, 119579301504003, 185184131584797, 333647780005544, 306255172770146, 369589566399283, 117461228379000, 349774478396157, 201995959908210, 307017162692056, 145928592172074, 122656527842056" prefix="fb: https://www.facebook.com/2008/fbml" property="fb:pages">
+<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/i18n/en.min.js"></script><script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/deps/jquery.magnific-popup.min.js"></script><script src="//assets.adobedtm.com/caacec67651710193d2331efef325107c23a0145/satelliteLib-78cf42deb149c9766cbaaa6151e252b9b67c0200.js"></script>
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/clientlib-all.min.css" type="text/css">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 <!--[if gte IE 9 | !IE ]><!-->
 <link href="/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon"/>
 <!--<![endif]-->
@@ -120,7 +130,7 @@
 		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
 <li><a href='https://www.canada.ca/en.html'>Home</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/ei.html'>Employment Insurance benefits</a></li><li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/what-EI-sickness-benefits-offer">EI Sickness Benefits: What these benefits offer</a></li>
 </ol></div></nav>
 	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
 </header>
@@ -129,11 +139,13 @@
     <main property="mainContentOfPage" typeof="WebPageElement" class="container">
     <h1 property="name" id="wb-cont" dir="ltr">
 EI Sickness Benefits: What these benefits offer</h1>
-        <div><div class="mwsgeneric-base-html parbase section">
-<div>
-  <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
-    <div class="row">
-      <ul class="toc lst-spcd col-md-12">
+        <div>
+    <div class="mwsgeneric-base-html parbase section">
+      <p><strong>From: <a href="/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
+      <div class="pagetag">
+        <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
+          <div class="row">
+            <ul class="toc lst-spcd col-md-12">
         <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness.html" class="list-group-item active">1. What these benefits offer</a> </li>
         <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/eligibility.html" class="list-group-item">2. Eligibility</a> </li>
         <li class="col-md-4"> <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/benefit-amount.html" class="list-group-item">3. How much you could receive</a> </li>
@@ -415,4 +427,3 @@ EI Sickness Benefits: What these benefits offer</h1>
 <script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 </body>
 </html>
-
