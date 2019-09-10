@@ -174,8 +174,8 @@ EI sickness benefits: <strong>How much you could receive</strong></h1>
         <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligibility" rel="prev">Previous - Eligibility</a></li>
-      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/4.apply" rel="next">Next - Apply</a></li>
+      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligibility" rel="prev">Previous</a></li>
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/4.apply" rel="next">Next</a></li>
       </ul>
 </nav>
     </div>
