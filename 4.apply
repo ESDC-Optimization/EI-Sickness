@@ -199,6 +199,7 @@ EI sickness benefits: <strong>Apply</strong></h1>
             </ul>
             <p>The online application takes about an hour to complete. Your information is saved for  72&nbsp;hours (3&nbsp;days) from the time you start. If you don't complete the  application, you can come back to it later using a temporary password that you  receive when you start your application. </p>
             <p>If you don't complete the application within 72&nbsp;hours, it will be deleted and you'll  have to start a new application.</p>
+			<p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
           <h2>Provide supporting documents</h2>
             <h3>Medical certificate</h3>
             <p>Once you have  your medical certificate, keep it in a safe place for 6 years in case we  require it later. We will contact you to let you know if  you need to submit your medical certificate after you apply. </p>
@@ -227,8 +228,8 @@ EI sickness benefits: <strong>Apply</strong></h1>
 		  <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/3.how-much-you-could-receive" rel="prev">Previous - How muh you could receive</a></li>
-      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying" rel="next">Next - After you apply</a></li>
+      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/3.how-much-you-could-receive" rel="prev">Previous</a></li>
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying" rel="next">Next</a></li>
       </ul>
 </nav>
 	  </section>
