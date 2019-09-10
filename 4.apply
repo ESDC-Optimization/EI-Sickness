@@ -186,8 +186,8 @@ EI Sickness Benefits: <strong>Apply</strong></h1>
             </ul>
             <p>We&rsquo;ll let you know if you need to submit your ROE.</p>
             <h3>Complete the online application</h3>
-            <p><strong>Apply as soon as  possible after you stop working.</strong> If you wait more than <p>4 weeks after your  last day of work to apply, you may lose benefits.</p>
-              Make sure you  have the following information to complete your application:</p>
+            <p><strong>Apply as soon as  possible after you stop working.</strong> If you wait more than 4 weeks after your last day of work to apply, you may lose benefits.</p>
+              <p>Make sure you have the following information to complete your application:</p>
             <ul>
               <li>The names and addresses of your employers in the last 52 weeks</li>
               <li>The dates you were employed with each employer and the reasons you're no longer       employed with them</li>
@@ -231,9 +231,7 @@ EI Sickness Benefits: <strong>Apply</strong></h1>
       <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/5.after-applying" rel="next">Next - After you apply</a></li>
       </ul>
 </nav>
-    </div>
-  </div>
-		  </section>
+	  </section>
 </div>
 
 </div>
