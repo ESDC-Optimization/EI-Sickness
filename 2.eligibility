@@ -145,8 +145,8 @@ You  need to demonstrate that:</p>
         <li>your regular weekly earnings from work have decreased by more than 40% for at least one week</li>
         <li>you accumulated 600 insured hours* of work in the 52 weeks before the start of your claim or since the start of your last claim, whichever is shorter</li>
       </ul>
-      <p>*As an example, 600 hours are equivalent to 20&nbsp;weeks of work at 30&nbsp;hours a week.<br>
-        While you&rsquo;re receiving sickness benefits, you must remain available for work if it weren&rsquo;t  for your medical condition. </p>
+      <small>*As an example, 600 hours are equivalent to 20&nbsp;weeks of work at 30&nbsp;hours a week.</small>
+        <p>While you&rsquo;re receiving sickness benefits, you must remain available for work if it weren&rsquo;t  for your medical condition. </p>
       <h2>Get a medical certificate</h2>
       <p>To receive sickness benefits, you&rsquo;ll need to get a medical certificate showing that  you&rsquo;re unable to work for medical reasons. For information on medical certificates, visit <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/before-applying/medical-certificate.html">Information on medical  certificates and practitioners</a><strong>.</strong></p>
 <details>
@@ -155,7 +155,7 @@ You  need to demonstrate that:</p>
 <p>However, if you've worked 600 hours since your last claim, you could start a new claim. <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">Contact us</a> to find out what's best for your situation.
 </p>
 </details>
-		<details>
+			<details>
 <summary><strong>If you're self-employed</strong></summary>
 <p>If you registered for access to <a href="https://www.canada.ca/en/services/benefits/ei/ei-self-employed-workers.html">EI  special benefits for self-employed people</a> and waited 12 months from the date of  your confirmed registration, you may be eligible for sickness benefits. You  must also meet all of the following conditions:</p>
 <ul type="disc">
@@ -172,8 +172,8 @@ You  need to demonstrate that:</p>
     <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/1.what-these-benefits-offer" rel="prev">Previous - What these benefits offer</a></li>
-      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/3.how-much-you-could-receive" rel="next">Next - How much could you receive</a></li>
+      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/1.what-these-benefits-offer" rel="prev">Previous</a></li>
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/3.how-much-you-could-receive" rel="next">Next</a></li>
       </ul>
   </nav>
     </div>
