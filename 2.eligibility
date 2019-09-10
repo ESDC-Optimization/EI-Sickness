@@ -138,8 +138,8 @@ EI Sickness Benefits: Eligibility</h1>
     </div>
   </div>
 		<section>
-      <p>The information below should be used as a guideline. We  encourage you to apply for benefits and let a Service Canada agent determine if  you're eligible.</p>
-<p>You  need to demonstrate that:</p>
+      <p>The information below should be used as a guideline. We  encourage you to apply for benefits and let a Service Canada agent determine if  you're eligible.<br>
+You  need to demonstrate that:</p>
       <ul type="disc">
         <li>you're unable to work for medical reasons </li>
         <li>your regular weekly earnings from work have decreased by more than 40% for at least one week</li>
@@ -147,7 +147,7 @@ EI Sickness Benefits: Eligibility</h1>
       </ul>
       <p>*As an example, 600 hours are equivalent to 20&nbsp;weeks of work at 30&nbsp;hours a week.<br>
         While you&rsquo;re receiving sickness benefits, you must remain available for work if it weren&rsquo;t  for your medical condition. </p>
-      <h3>Get a medical certificate</h3>
+      <h2>Get a medical certificate</h2>
       <p>To receive sickness benefits, you&rsquo;ll need to get a medical certificate showing that  you&rsquo;re unable to work for medical reasons. For information on medical certificates, visit <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/before-applying/medical-certificate.html">Information on medical  certificates and practitioners</a><strong>.</strong></p>
 <details>
   <summary><strong>If you had a recent EI claim</strong></summary>
@@ -396,3 +396,5 @@ EI Sickness Benefits: Eligibility</h1>
 <script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 </body>
 </html>
+
+
