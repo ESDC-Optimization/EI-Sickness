@@ -178,7 +178,7 @@ EI sickness benefits: What these benefits offer</h1>
     <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligbility" rel="next">Next - Eligibility</a></li>
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligbility" rel="next">Next</a></li>
       </ul>
   </nav>
     </div>
@@ -401,4 +401,3 @@ EI sickness benefits: What these benefits offer</h1>
 <script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 </body>
 </html>
-
