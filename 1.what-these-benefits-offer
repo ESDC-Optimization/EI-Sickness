@@ -154,8 +154,6 @@ EI Sickness Benefits: What these benefits offer</h1>
       </ul>
     </div>
   </div>
-  <div class="row">
-    <div>
 		<section>
       <p>Employment Insurance (EI) sickness benefits can provide you  with up to 15 weeks of financial assistance if you cannot work for medical  reasons. You could receive 55% of your earnings up to a maximum of $562 a week.</p>
       <p>You must get a medical certificate to show that you&rsquo;re  unable to work for medical reasons. Medical reasons include illness, injury,  quarantine or any medical condition that prevents you from working.</p>
@@ -403,3 +401,4 @@ EI Sickness Benefits: What these benefits offer</h1>
 <script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 </body>
 </html>
+
