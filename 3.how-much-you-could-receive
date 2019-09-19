@@ -3,7 +3,7 @@
 <![endif]--><!--[if gt IE 8]><!--><html class="js backgroundsize borderimage csstransitions fontface svg details progressbar meter no-mathml cors xsmallview wb-enable" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta charset="utf-8">
-<title>Canada Pension Plan Disability Benefit - Overview - Canada.ca</title>
+<title>EI sickness benefit</title>
 <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/i18n/en.min.js"></script><script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/deps/jquery.magnific-popup.min.js"></script><script src="//assets.adobedtm.com/caacec67651710193d2331efef325107c23a0145/satelliteLib-78cf42deb149c9766cbaaa6151e252b9b67c0200.js"></script>
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/clientlib-all.min.css" type="text/css">
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css">
@@ -124,7 +124,7 @@
 EI sickness benefits: <strong>How much you could receive</strong></h1>
         <div>
     <div class="mwsgeneric-base-html parbase section">
-      <p><strong>From: <a href="/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
+      <p><strong>From: <a href="https://www.canada.ca/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
       <div class="pagetag">
         <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
           <div class="row">
@@ -143,10 +143,11 @@ EI sickness benefits: <strong>How much you could receive</strong></h1>
 			</div>
 <p>Up to 15 weeks of sickness benefits are available, but the  number of weeks of benefits you get depends on how long you&rsquo;re unable to work for  medical reasons. The amount you receive depends on your insurable earnings*  before taxes in the past 52 weeks or since the start of your last claim,  whichever is shorter.</p>
 <small>*Insurable  earnings include most of the different types of compensation from employment,  such as wages, tips, bonuses and commissions. The Canada Revenue Agency  determines what <a href="https://www.canada.ca/en/revenue-agency/services/tax/canada-pension-plan-cpp-employment-insurance-ei-rulings/cpp-ei-explained/canada-pension-plan-employment-insurance-explained-10.html">types of earnings</a> are insurable.</small>
+			<br>
 <p>Some employers provide additional money to employees on  sick leave. This is called a top-up. Check with your employer to find out if  they offer a top-up. </p>
       <h2>If your weekly earnings vary or your income changes</h2>
       <p>To calculate  your benefit amount, we use a specific number of your highest paid weeks of  employment. We call these your best weeks. The number of best weeks we use is  based on the unemployment rate where you live. It could be between 14 and 22  weeks.</p>
-        If your weekly  earnings vary or your income changes, your best weeks can impact your benefit  <p>amount. <a href="https://srv129.services.gc.ca/eiregions/eng/rates_cur.aspx">Find your economic  region</a> to learn how many best weeks are used to calculate your benefit amount.</p>
+        <p>If your weekly  earnings vary or your income changes, your best weeks can impact your benefit  amount. <a href="https://srv129.services.gc.ca/eiregions/eng/rates_cur.aspx">Find your economic  region</a> to learn how many best weeks are used to calculate your benefit amount.</p>
       <h2>What's included in benefit calculations</h2>
       <h3>Basic rates</h3>
       <p>The  basic rate used to calculate sickness benefits is 55% of average insurable  weekly earnings, up to a maximum amount. In 2019, the maximum amount is $562 a  week. </p>
@@ -160,8 +161,7 @@ EI sickness benefits: <strong>How much you could receive</strong></h1>
 		</ol>
 		</section>
 			</details>
-		<details>
-      <summary><strong>If your family income is $25,921 or less</strong></summary>
+		  <h3>If your family income is $25,921 or less</h3>
       <p>You may be eligible to receive the <strong>family supplement</strong> if you meet the following conditions:</p>
       <ul type="disc">
         <li>your annual net family income is $25,921 or less </li>
