@@ -123,7 +123,7 @@
     <h1 property="name" id="wb-cont" dir="ltr">
 EI sickness benefits: <strong>Apply</strong></h1>
     <div class="mwsgeneric-base-html parbase section">
-      <p><strong>From: <a href="/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
+      <p><strong>From: <a href="https://www.canada.ca/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
       <div class="pagetag">
         <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
           <div class="row">
@@ -158,7 +158,7 @@ EI sickness benefits: <strong>Apply</strong></h1>
 	</section>
 		    <section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="apply5.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step5">Review your application process</a>            </p>
+			<p class="text-left mrgn-tp-md"><a href="#step5">Review your application status</a>            </p>
 		    </section>
 		    </div>
 			</div>
@@ -166,7 +166,7 @@ EI sickness benefits: <strong>Apply</strong></h1>
 			<p>Service Canada  collects personal information you put in an EI benefit application to decide if  you qualify for EI benefits. By starting this application, you consent to the  terms of the privacy notice statement. Please read the <a href="https://www.canada.ca/en/services/benefits/privacy-notice.html">privacy notice</a>.</p>
 		  <p>If you are  already familiar with the program:</p>
 			<p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
-			<h2>Begin to gather supporting documents</h2>
+			<h2 id="step1">Begin to gather supporting documents</h2>
             <p>As part of the application process, you may need to  provide Service Canada with documents. <strong>Don&rsquo;t  wait until you have these documents before you apply</strong>. You can get them  after you complete your online application and send them in if we need them.</p>
             <h3>Medical certificate</h3>
             <p>You&rsquo;ll need to  get a medical certificate signed by a medical practitioner. </p>
@@ -178,14 +178,14 @@ EI sickness benefits: <strong>Apply</strong></h1>
             <p>We&rsquo;ll let you know if you need to submit it to Service  Canada. </p>
              <p>The medical practitioner may charge a fee to provide you  with a medical certificate. We don&rsquo;t reimburse this fee. </p>
               <p>For  more information on medical certificates, such as who can sign it, visit <a href="https://www.canada.ca/en/services/benefits/ei/ei-sickness/before-applying/medical-certificate.html">Information  on medical certificates and practitioners</a>.<strong> </strong></p>
-            <h3>Record of employment</h3>
+            <h3>Record of Employment</h3>
             <p>Employers issue a Record of Employment (ROE) to provide information on your work history.  Service Canada uses the information to determine:</p>
             <ul type="disc">
               <li>whether you're eligible to receive EI benefits</li>
               <li>how much you'll receive</li>
             </ul>
             <p>We&rsquo;ll let you know if you need to submit your ROE.</p>
-            <h2>Complete the online application</h2>
+            <h2 id="step2">Complete the online application</h2>
             <p><strong>Apply as soon as  possible after you stop working.</strong> If you wait more than 4 weeks after your last day of work to apply, you may lose benefits.</p>
               <p>Make sure you have the following information to complete your application:</p>
             <ul>
@@ -200,10 +200,10 @@ EI sickness benefits: <strong>Apply</strong></h1>
             <p>The online application takes about an hour to complete. Your information is saved for  72&nbsp;hours (3&nbsp;days) from the time you start. If you don't complete the  application, you can come back to it later using a temporary password that you  receive when you start your application. </p>
             <p>If you don't complete the application within 72&nbsp;hours, it will be deleted and you'll  have to start a new application.</p>
 			<p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
-          <h2>Provide supporting documents</h2>
+          <h2 id="step3">Provide supporting documents</h2>
             <h3>Medical certificate</h3>
             <p>Once you have  your medical certificate, keep it in a safe place for 6 years in case we  require it later. We will contact you to let you know if  you need to submit your medical certificate after you apply. </p>
-            <h3>Record of employment</h3>
+            <h3>Record of Employment</h3>
             <p>We will need your ROEs. Your employer may send them to us  directly. If not, you may need to submit them.</p>
 	  <details>
             <summary><strong>Electronic ROEs</strong></summary>
@@ -211,12 +211,12 @@ EI sickness benefits: <strong>Apply</strong></h1>
 	  </details>
 	  <details>
             <summary><strong>Paper ROEs</strong></summary>
-            <p>If your employer issues paper ROEs, you must request copies of all ROEs issued to you  in the past 52 weeks. You'll need to provide them to Service Canada as soon as  possible after you submit your EI application. You can <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html#details-panel3">mail them</a> or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada Centre</a>.</p>
+            <p>If your employer issues paper ROEs, you must request copies of all ROEs issued to you  in the past 52 weeks. You'll need to provide them to Service Canada as soon as  possible after you submit your EI application. You can <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">mail them</a> or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada Centre</a>.</p>
             <p>You can visit <a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My Service Canada Account (MSCA)</a> to view ROEs that have been issued to you  by past and current employers.</p>
 	  </details>
-            <h2>A benefit statement and access code will arrive by mail</h2>
+            <h2 id="step4">A benefit statement and access code will arrive by mail</h2>
             <p>Once  your application is complete, Service Canada will mail you a benefit statement.  This statement will include a 4-digit access code. You need this code and your  SIN to inquire about your application and to complete biweekly reports. <strong>Receiving the EI benefit statement doesn't mean that Service Canada has made a decision about your claim.</strong></p>
-            <h2>Review your application status</h2>
+            <h2 id="step5">Review your application status</h2>
             <p>To check the  progress of your application, you can:</p>
             <ul type="disc">
               <li><a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">log into MSCA</a></li>
