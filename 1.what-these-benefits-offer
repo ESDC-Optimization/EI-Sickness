@@ -9,7 +9,7 @@
 <meta name="description" content="Overview">
 <meta name="keywords" content="Overview">
 <meta name="author" content="Employment and Social Development Canada">
-<meta name="dcterms.title" content="Canada Pension Plan Disability Benefit - Overview">
+<meta name="dcterms.title" content="EI Sickness Benefits">
 <meta name="dcterms.description" content="Overview">
 <meta name="dcterms.creator" content="Employment and Social Development Canada">
 <meta name="dcterms.language" title="ISO639-2/T" content="eng">
@@ -141,7 +141,7 @@
 EI sickness benefits: What these benefits offer</h1>
         <div>
     <div class="mwsgeneric-base-html parbase section">
-      <p><strong>From: <a href="/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
+      <p><strong>From: <a href="https://www.canada.ca/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
       <div class="pagetag">
         <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
           <div class="row">
@@ -155,8 +155,8 @@ EI sickness benefits: What these benefits offer</h1>
     </div>
   </div>
 		<section>
-      <p>Employment Insurance (EI) sickness benefits can provide you  with up to 15 weeks of financial assistance if you cannot work for medical  reasons. You could receive 55% of your earnings up to a maximum of $562 a week.</p>
-      <p>You must get a medical certificate to show that you&rsquo;re  unable to work for medical reasons. Medical reasons include illness, injury,  quarantine or any medical condition that prevents you from working.</p>
+      <p>Employment Insurance (EI) sickness benefits can provide you  with up to 15 weeks of financial assistance if you cannot work for medical  reasons. You could receive 55% of your earnings up to a maximum of $562 a  week.</p>
+<p>You must get a medical certificate to show that you&rsquo;re  unable to work for medical reasons. Medical reasons include illness, injury,  quarantine or any medical condition that prevents you from working.</p>
 		<details>
 		<summary><strong>Find out if you have employer-paid sick leave</strong></summary>
 			<p>Some employers provide their own paid sick leave plan. Before you apply for EI sickness benefits, check with your employer to find out if they have a program in place.</p>
@@ -171,14 +171,14 @@ EI sickness benefits: What these benefits offer</h1>
 			</details>
 			<details>
 				<summary><strong>If you get sick or require bedrest during pregnancy</strong></summary>
-			<p>If you have health complications during pregnancy, you  could be eligible for sickness  benefits or for <a href="https://www.canada.ca/en/services/benefits/ei/ei-maternity-parental.html">maternity benefits</a>. You must meet the conditions for each benefit.<strong> </strong></p>
+			<p>If you have health complicatlions during pregnancy, you  could be eligible for sickness  benefits or for <a href="https://www.canada.ca/en/services/benefits/ei/ei-maternity-parental.html">maternity benefits</a>. You must meet the conditions for each benefit.<strong> </strong></p>
 			</details>
 </section>
  <nav role="navigation">
     <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligbility" rel="next">Next</a></li>
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/EI-Sickness/blob/master/2.eligibility" rel="next">Next</a></li>
       </ul>
   </nav>
     </div>
